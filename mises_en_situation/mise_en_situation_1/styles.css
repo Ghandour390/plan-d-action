@@ -1,0 +1,17 @@
+.g-carte{
+    display: flex;
+    flex-direction: row;
+
+}
+.carte{
+    width: 150px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.boton-carte{
+    background-color: blue;
+    width: 100px;
+    height: 20px;
+
+}
